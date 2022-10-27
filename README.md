@@ -1,3 +1,3 @@
 # load-driver
-This programs load a driver in windows.
-Plus another program to communicate with the loaded driver in the user-space.
+Source.c loads a driver in windows.
+Srouce.cpp can communicate with the loaded driver in the user-space.
